@@ -36,3 +36,11 @@ The LED is turned ON for 1 second and then OFF for 1 second repeatedly.
 ## 6. Expected Behaviour
 
 The LED should blink continuously with a 1-second ON and 1-second OFF interval.
+
+## Expected Behaviour
+
+The LED should turn ON for 1 second and OFF for 1 second continuously.
+
+## Testing
+
+The program was tested on an Arduino Uno using digital pin 13.
